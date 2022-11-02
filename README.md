@@ -1,6 +1,6 @@
 # BrainF-k_Compiler
-Exploring Language development by building a BrainF\**k compiler in C <br/>
-This project is soon to be a simple compiler for the language BrainF**k <br/>
+Exploring Language development by building a BrainF-k compiler in C <br/>
+This project is soon to be a simple compiler for the language BrainF-k <br/>
 
 BrainF**k is a Turing complete esoteric language designed to have a minimal compiler <br/>
 it is possible for the compiler to be around 180 bytes, however I am not aiming so small <br/>
